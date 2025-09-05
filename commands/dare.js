@@ -2,8 +2,8 @@ const fetch = require('node-fetch');
 
 async function dareCommand(sock, chatId, message) {
     try {
-        const shizokeys = '𝗟𝗮𝗱𝘆_𝗕𝗲𝗹𝗹𝗮🎀';
-        const res = await fetch(`https://api.shizo.top/api/quote/dare?apikey=${shizokeys}`);
+        const shizokeys = 'shizo';
+        const res = await fetch(`https://shizoapi.onrender.com/api/texts/dare?apikey=${shizokeys}`);
         
         if (!res.ok) {
             throw await res.text();
