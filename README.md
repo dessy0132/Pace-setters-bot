@@ -9,7 +9,7 @@ This is a WhatsApp bot built using the Baileys library for group management, inc
 </div> 
 
 <div align="center"> 
-  <a href="https://youtube.com/@mr_unique_hacker"> 
+  <a href="https://www.youtube.com/@lukepraise"> 
     <img src="https://github.com/SNOWBIRD0074/BEN-10-MD/blob/main/assets/bot_image.jpg" alt="Lady bella" height="300"> 
   </a> 
 </div>
@@ -56,7 +56,7 @@ Deploy the bot and easily connect it to your WhatsApp account by pair code. Clic
 For further customization and setup guidance, click the button below:
 
 <div align="center">
-  <a href="https://youtu.be/G2fBDcrmFdQ?si=DissyHrmmHBUyu9Z">
+  <a href="https://youtu.be/2hrm7riEZRg?si=WGfGJp8M6QZ8OsSu>
     <img src="https://img.shields.io/badge/Deploy Tutorial-dc3545?style=for-the-badge&logo=youtube" alt="YouTube Link"/>
   </a>
   <a href="https://bot-hosting.net/?aff=1068419752923508776">
